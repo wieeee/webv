@@ -1,2 +1,4 @@
 # webv
-```print(c)```
+```for a in b:
+     print(c)```
+
